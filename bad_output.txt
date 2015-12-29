@@ -1,0 +1,2 @@
+Unexpected exception System.Runtime.InteropServices.COMException (0x80040154): Retrieving the COM class factory for component with CLSID {C481ABC6-2622-4D78-A1E2-71C3A560FF0C} failed due to the following error: 80040154 Class not registered (Exception from HRESULT: 0x80040154 (REGDB_E_CLASSNOTREG)).
+   at SimpleExample.Main()
